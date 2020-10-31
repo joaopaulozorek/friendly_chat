@@ -1,11 +1,11 @@
 ## FriendlyChat - Chat dos Parça
 > Aplicativo de chat usando Flutter.
 
-![](captura.gif)
-
 Eae, tudo bem?
 
-Este aplicativo foi feito para fins de estudo utilizando como base este [codelab](https://codelabs.developers.google.com/codelabs/flutter). Adicionalmente estou usando o package [bubble](https://pub.dev/packages/bubble) para criar os balões de mensagem.
+Fiz este aplicativo para estudar um pouco mais sobre Flutter. Para este projeto estou utilizando como base este [codelab](https://codelabs.developers.google.com/codelabs/flutter). Também estou usando o package [bubble](https://pub.dev/packages/bubble) para criar os balões de mensagem.
+
+![](friendly_chat.gif)
 
 ## Faça Contato 🛸
 
