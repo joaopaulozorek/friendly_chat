@@ -1,5 +1,5 @@
 ## FriendlyChat - Chat dos Parça
-> Aplicativo de chat usando Flutter.
+> FriendlyChat CodeLab - made with love using Flutter
 
 Eae, tudo bem?
 
